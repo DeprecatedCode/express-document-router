@@ -27,7 +27,6 @@ module.exports.route = function(app, dir, types) {
    * Iterate Through Directories
    * @author Robbie Trencheny
    */
-
   findit.find(dir, function (file) {
 
     /**
