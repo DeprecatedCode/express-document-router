@@ -4,13 +4,17 @@
   "version": "0.0.1",
   "private": false,
   "dependencies": {
-    "express": ">= 2"
+    "express": ">= 2",
+    "findit": ">= 0.1.2"
   },
   "homepage": "https://github.com/NateFerrero/express-document-router",
-  "author": "Nate Ferrero (http://nateferrero.com)",
+  "author": {
+    "name": "Nate Ferrero",
+    "url": "http://nateferrero.com"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/NateFerrero/express-document-router"
+    "url": "git://github.com/NateFerrero/express-document-router.git"
   },
   "main": "./index.js",
   "licenses": [
@@ -18,5 +22,19 @@
       "type": "MIT +no-false-attribs",
       "url": "http://github.com/isaacs/npm/raw/master/LICENSE"
     }
-  ]
+  ],
+  "_id": "express-document-router@0.0.1",
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "_engineSupported": true,
+  "_npmVersion": "1.1.18",
+  "_nodeVersion": "v0.6.15",
+  "_defaultsLoaded": true,
+  "dist": {
+    "shasum": "1ade7e077f9af212c5103ad4c6e10d8004bca0eb"
+  },
+  "_from": "express-document-router@git://github.com/NateFerrero/express-document-router.git"
 }
