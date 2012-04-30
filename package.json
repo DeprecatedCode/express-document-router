@@ -1,0 +1,22 @@
+{
+  "name": "express-document-router",
+  "description": "Automatic Express Document Routing",
+  "version": "0.0.1",
+  "private": false,
+  "dependencies": {
+    "express": ">= 2"
+  },
+  "homepage": "https://github.com/NateFerrero/express-document-router",
+  "author": "Nate Ferrero (http://nateferrero.com)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NateFerrero/express-document-router"
+  },
+  "main": "./index.js",
+  "licenses": [
+    {
+      "type": "MIT +no-false-attribs",
+      "url": "http://github.com/isaacs/npm/raw/master/LICENSE"
+    }
+  ]
+}
