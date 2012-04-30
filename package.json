@@ -4,7 +4,6 @@
   "version": "0.0.1",
   "private": false,
   "dependencies": {
-    "express": ">= 2",
     "findit": ">= 0.1.2"
   },
   "homepage": "https://github.com/NateFerrero/express-document-router",
