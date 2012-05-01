@@ -22,6 +22,7 @@ var fs = require('fs');
  * }
  */
 module.exports.route = function(app, dir, types) {
+  'use strict';
 
   /**
    * Iterate Through Directories
