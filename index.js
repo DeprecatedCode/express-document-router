@@ -73,7 +73,7 @@ module.exports.route = function(app, dir, types) {
        * Add the routes to express
        */
       app.get(route, handler);
-      app.get(route + '/*', handler);
+      //app.get(route + '/*', handler);
     }
   });
 }
